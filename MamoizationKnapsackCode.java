@@ -1,4 +1,5 @@
 import java.util.*;
+import java.math.*;
 public class MamoizationKnapsackCode {
 
     static int knapsack(int[] val , int[] wt, int w, int n , int[][] dp){
