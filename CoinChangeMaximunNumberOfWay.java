@@ -27,8 +27,8 @@ public class CoinChangeMaximunNumberOfWay {
     }
 
     public static void main(String[] args){
-        int coins[] = {1,2,3};
-        int sum = 5;
+        int coins[] = {18, 24, 23, 10, 16, 19, 2, 9, 5, 12, 17, 3, 28, 29, 4, 13, 15, 8 };
+        int sum = 458;
 
         System.out.println(countMaxWay(coins,sum));
 
